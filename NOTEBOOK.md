@@ -14,3 +14,7 @@ ng new --no-standalone AngularTutorial
 ## [Resolves 2: Display a selection list](https://angular.io/tutorial/tour-of-heroes/toh-pt2)
 
 * At "List heroes with *ngFor" we are in no standalone mode, so we don't need this step.
+
+## [Resolves 3: Create a feature component](https://angular.io/tutorial/tour-of-heroes/toh-pt3)
+
+* N/A
