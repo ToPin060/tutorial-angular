@@ -7,6 +7,10 @@
 ng new --no-standalone AngularTutorial
 ```
 
-## [Resolves 1: Create a new project](https://angular.io/tutorial/tour-of-heroes/toh-pt1)
+## [Resolves 1: The hero editor](https://angular.io/tutorial/tour-of-heroes/toh-pt1)
 
 * N/A
+
+## [Resolves 2: Display a selection list](https://angular.io/tutorial/tour-of-heroes/toh-pt2)
+
+* At "List heroes with *ngFor" we are in no standalone mode, so we don't need this step.
