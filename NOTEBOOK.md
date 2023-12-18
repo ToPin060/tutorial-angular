@@ -6,3 +6,7 @@
 ```
 ng new --no-standalone AngularTutorial
 ```
+
+## [Resolves 1: Create a new project](https://angular.io/tutorial/tour-of-heroes/toh-pt1)
+
+* N/A
