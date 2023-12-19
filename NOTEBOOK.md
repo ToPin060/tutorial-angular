@@ -22,3 +22,7 @@ ng new --no-standalone AngularTutorial
 ## [Resolves 4: Add services](https://angular.io/tutorial/tour-of-heroes/toh-pt4)
 
 * N/A
+
+## [Resolves 5: Add navigation with routing](https://angular.io/tutorial/tour-of-heroes/toh-pt5)
+
+* N/A
