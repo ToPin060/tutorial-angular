@@ -18,3 +18,7 @@ ng new --no-standalone AngularTutorial
 ## [Resolves 3: Create a feature component](https://angular.io/tutorial/tour-of-heroes/toh-pt3)
 
 * N/A
+
+## [Resolves 4: Add services](https://angular.io/tutorial/tour-of-heroes/toh-pt4)
+
+* N/A
